@@ -1,24 +1,12 @@
 # example1
 
 HOSTED LINK OF PROJECT:https://manuhegde198924.github.io/example1/
-HTML PART:
+HTML PARTCSS PART AND MEDIA QUEIRIES
+https://github.com/manuhegde198924/example1/issues/1
 
-![image](https://github.com/manuhegde198924/example1/assets/128891377/368290eb-a1fd-46b0-b050-5be7403cd907)
-OTHER PART OF PROJECTS:
-![image](https://github.com/manuhegde198924/example1/assets/128891377/43e999cf-790b-4aa4-8a5e-ae6484d180fb)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/d2f8d753-c69a-4e7c-b3a9-4262b5e133c0)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/ec4d1f21-a944-491b-924c-39ac76fefd88)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/5e2e260c-9ff8-49bd-a61e-2f91362993bb)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/e9f72dc7-026e-4064-9c54-68cd71ff0877)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/ea02bc28-a46c-45f0-b759-885328990041)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/238f4af9-5e48-4c41-a218-3f081b90633b)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/413a2e80-23ce-4364-ae0c-f041751131af)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/e278dcf3-15b0-4908-9c0d-734c54878389)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/2fddc89b-d405-45a0-b421-e145d83cea2b)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/236cc3db-331e-4c0c-9004-f2f35d20f787)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/1dae32ab-8279-473e-9147-bc2b772b1932)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/be28141c-cedb-4856-a8be-2d423844e9a0)
-![image](https://github.com/manuhegde198924/example1/assets/128891377/787ca100-b35a-4b1f-b0bd-d4a893f0c34d)
+
+
+
 
  
 Media Types in CSS: There are many types of media types which are listed below:
