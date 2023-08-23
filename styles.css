@@ -1,0 +1,19 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+   
+  
+   /* Media Query for Laptops and Desktops */
+   @media (min-width: 1025px) and (max-width: 1280px){
+    body {
+        background-color: rgb(33, 35, 33);
+    }
+}
+  
+}
+  
+ 
+   }
